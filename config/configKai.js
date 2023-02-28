@@ -5,7 +5,7 @@ var config = {
     age: "24",
     phone: "18837557073",
     email: "2590856377@qq.com",
-    address: "现居河南省开封市",
+    address: "现居广东省广州市天河区",
     qq: "2590856377",
     log: "Damahou",
     excpect_work: "后端开发实习生",
@@ -143,7 +143,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "./images/intro-bg.jpg",
-        "./images/2.jpg",
+        "./images/kai.jpg",
         "./images/work-bk.png",
         "./images/4.jpg"
     ]
